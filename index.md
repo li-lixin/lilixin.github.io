@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lilixin's homepages.
 
 You can use the [editor on GitHub](https://github.com/li-lixin/lilixin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
